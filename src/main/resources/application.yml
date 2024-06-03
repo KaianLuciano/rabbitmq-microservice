@@ -1,1 +1,3 @@
-spring.application.name=rabbimq
+spring:
+  application:
+    name: rabbimq
