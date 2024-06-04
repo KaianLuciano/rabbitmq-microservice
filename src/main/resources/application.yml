@@ -1,3 +1,11 @@
 spring:
   application:
     name: rabbimq
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+queue:
+    name: test-queue
